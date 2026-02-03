@@ -2,3 +2,4 @@
 .venv/
 *.joblib
 creditcard.csv
+catboost_info/
